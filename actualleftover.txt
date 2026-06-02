@@ -2,6 +2,11 @@
 15104	0038c34c	0078c34c	Section(1)['.rdata']	12	A	CDataModelPropGrid
 15105	0038c360	0078c360	Section(1)['.rdata']	12	A	CSelectionPropGrid
 15106	0038c374	0078c374	Section(1)['.rdata']	09	A	CPropGrid
+16118	0039af10	0079af10	Section(1)['.rdata']	13	A	playerFromCharacter
+16119	0039af24	0079af24	Section(1)['.rdata']	09	A	character
+16871	003a5594	007a5594	Section(1)['.rdata']	11	A	PhysicalCharacter
+17037	003a8900	007a8900	Section(1)['.rdata']	10	A	InsertCharacter1 (Additonal note: both this and 17038 may be related to Load Character...)
+17038	003a894c	007a894c	Section(1)['.rdata']	10	A	InsertCharacter2 (Additonal note: both 17037 and this may be related to Load Character...)
 18366	003c84f0	007c84f0	Section(1)['.rdata']	10	A	CXTPPropertyGrid
 18367	003c8504	007c8504	Section(1)['.rdata']	0f	A	XTPPropertyGrid
 18368	003c8a80	007c8a80	Section(1)['.rdata']	18	A	CXTPControlColorSelector

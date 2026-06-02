@@ -20,4 +20,6 @@
 18460	003cea98	007cea98	Section(1)['.rdata']	14	A	CXTPPropertyGridView
 18463	003cf318	007cf318	Section(1)['.rdata']	18	A	CXTPPropertyGridItemEnum
 18464	003cf334	007cf334	Section(1)['.rdata']	18	A	CXTPPropertyGridItemBool
+18818	003d80e0	007d80e0	Section(1)['.rdata']	1b	A	CXTPPropertyGridInplaceList
+18819	003d8320	007d8320	Section(1)['.rdata']	1b	A	CXTPPropertyGridInplaceEdit
 MTBA

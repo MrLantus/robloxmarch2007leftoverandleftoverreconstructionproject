@@ -19,6 +19,8 @@
 17530	003b2c90	007b2c90	Section(1)['.rdata']	09	A	Textures\
 17531	003b33ec	007b33ec	Section(1)['.rdata']	09	A	HopperBin
 17535	003b3418	007b3418	Section(1)['.rdata']	0b	A	TextureName
+17968	003c004f	007c004f	Section(1)['.rdata']	06	A	>Bumps
+17971	003c0070	007c0070	Section(1)['.rdata']	05	A	Spawn
 18366	003c84f0	007c84f0	Section(1)['.rdata']	10	A	CXTPPropertyGrid
 18367	003c8504	007c8504	Section(1)['.rdata']	0f	A	XTPPropertyGrid
 18368	003c8a80	007c8a80	Section(1)['.rdata']	18	A	CXTPControlColorSelector

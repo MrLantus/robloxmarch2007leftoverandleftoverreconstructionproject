@@ -15,4 +15,9 @@
 18376	003caa4c	007caa4c	Section(1)['.rdata']	17	A	CXTPPropExchangeXMLNode
 18377	003caa64	007caa64	Section(1)['.rdata']	17	A	CXTPPropExchangeArchive
 18378	003caa7c	007caa7c	Section(1)['.rdata']	10	A	CXTPPropExchange
+18444	003ce300	007ce300	Section(1)['.rdata']	14	A	CXTPPropertyGridItem
+18445	003ce5e0	007ce5e0	Section(1)['.rdata']	19	A	CXTPPropertyGridItemColor
+18460	003cea98	007cea98	Section(1)['.rdata']	14	A	CXTPPropertyGridView
+18463	003cf318	007cf318	Section(1)['.rdata']	18	A	CXTPPropertyGridItemEnum
+18464	003cf334	007cf334	Section(1)['.rdata']	18	A	CXTPPropertyGridItemBool
 MTBA

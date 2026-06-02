@@ -88,4 +88,5 @@
 23239	004b3538	008b3538	Section(2)['.data']	3d	A	.?AVCXTPPropertyGridWhidbeyTheme@XTPPropertyGridPaintThemes@@
 23240	004b3580	008b3580	Section(2)['.data']	21	A	.?AVCXTPPropertyGridInplaceList@@
 23241	004b35ac	008b35ac	Section(2)['.data']	21	A	.?AVCXTPPropertyGridInplaceEdit@@
+25821	00503af8	00910af8	Section(3)['.rsrc']	11	U	Load Character...
 MTBA

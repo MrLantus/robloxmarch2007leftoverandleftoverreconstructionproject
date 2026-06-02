@@ -1,2 +1,18 @@
 15060	0038a174	0078a174	Section(1)['.rdata']	05	A	Color
+15104	0038c34c	0078c34c	Section(1)['.rdata']	12	A	CDataModelPropGrid
+15105	0038c360	0078c360	Section(1)['.rdata']	12	A	CSelectionPropGrid
+15106	0038c374	0078c374	Section(1)['.rdata']	09	A	CPropGrid
+18366	003c84f0	007c84f0	Section(1)['.rdata']	10	A	CXTPPropertyGrid
+18367	003c8504	007c8504	Section(1)['.rdata']	0f	A	XTPPropertyGrid
+18368	003c8a80	007c8a80	Section(1)['.rdata']	18	A	CXTPControlColorSelector
+18369	003c8a9c	007c8a9c	Section(1)['.rdata']	16	A	CXTPControlButtonColor
+18370	003c8ab4	007c8ab4	Section(1)['.rdata']	15	A	CXTPControlPopupColor
+18371	003c8fcc	007c8fcc	Section(1)['.rdata']	12	A	CXTPCustomizeSheet
+18372	003c9da8	007c9da8	Section(1)['.rdata']	19	A	CXTPCustomizeCommandsPage
+18373	003ca2d0	007ca2d0	Section(1)['.rdata']	10	A	CXTPPopupToolBar
+18374	003ca2e4	007ca2e4	Section(1)['.rdata']	0c	A	CXTPPopupBar
+18375	003ca70c	007ca70c	Section(1)['.rdata']	0b	A	XTPPopupBar
+18376	003caa4c	007caa4c	Section(1)['.rdata']	17	A	CXTPPropExchangeXMLNode
+18377	003caa64	007caa64	Section(1)['.rdata']	17	A	CXTPPropExchangeArchive
+18378	003caa7c	007caa7c	Section(1)['.rdata']	10	A	CXTPPropExchange
 MTBA

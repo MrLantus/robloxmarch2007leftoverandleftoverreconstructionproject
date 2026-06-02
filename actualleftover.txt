@@ -1,1 +1,2 @@
-TBA
+15060	0038a174	0078a174	Section(1)['.rdata']	05	A	Color
+MTBA

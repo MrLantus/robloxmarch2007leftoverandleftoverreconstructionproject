@@ -57,6 +57,9 @@
 21018	00486d0c	00886d0c	Section(2)['.data']	30	A	.?AV?$TypedPropertyDescriptor@M@Reflection@RBX@@
 21019	00486d48	00886d48	Section(2)['.data']	31	A	.?AV?$TypedPropertyDescriptor@_N@Reflection@RBX@@
 21175	00489540	00889540	Section(2)['.data']	17	A	.?AVCSettingsPropGrid@@
+21903	0049b75c	0089b75c	Section(2)['.data']	28	A	.?AVInsertPhysicalCharacterCommand@RBX@@
+21904	0049b790	0089b790	Section(2)['.data']	29	A	.?AVInsertPhysicalCharacter1Command@RBX@@
+21905	0049b7c4	0089b7c4	Section(2)['.data']	29	A	.?AVInsertPhysicalCharacter2Command@RBX@@ (first one may be pose Stand, second may be Sit, and finally the last and third could be Climb)
 22993	004b059c	008b059c	Section(2)['.data']	1d	A	.?AVCXTPPropertyGridToolBar@@
 22996	004b05f8	008b05f8	Section(2)['.data']	2d	A	.?AV?$CArray@PAVCXTPPropertyGridVerb@@PAV1@@@
 22997	004b0630	008b0630	Section(2)['.data']	1b	A	.?AVCXTPPropertyGridVerbs@@

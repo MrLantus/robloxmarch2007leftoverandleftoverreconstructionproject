@@ -1,3 +1,6 @@
+ccccc	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	>PlayerHopperItem
+ccccc	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	>PlayerHopper
+ccccc	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	PlayerHopper
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	PropertyGrid Window
 xxxxx 00xxxxxx  00xxxxxx  Section(2)['.data']   xx  X .?AVCreator@?$FactoryProduct@VBumps@RBX@@VJointInstance@2@$1?sBumps@2@3QBDB@RBX@@
 xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AVCreator@?$FactoryProduct@VHopperService@RBX@@VHopper@2@$1?sHopperService@2@3QBDB@RBX@@

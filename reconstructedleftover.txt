@@ -8,4 +8,5 @@ xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$DescribedCreatable@Hopper
 xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$Described@VHopperService@RBX@@$1?sHopperService@2@3QBDBV?$FactoryProduct@VHopperService@RBX@@VHopper@2@$1?sHopperService@2@3QBDB@2@@Reflection@RBX@@
 xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$FactoryProduct@VHopperBin@RBX@@VPlayerHopperItem@2@$1?sHopperBin@2@3QBDB@RBX@@
 xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$Described@VHopperService@RBX@@$1?sHopperService@2@3QBDBV?$FactoryProduct@VHopperService@RBX@@VHopper@2@$1?sHopperService@2@3QBDB@2@@Reflection@RBX@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$DescribedCreatable@VHopperService@RBX@@VHopper@2@$1?sHopperService@2@3QBDB@RBX@@
 MTBA

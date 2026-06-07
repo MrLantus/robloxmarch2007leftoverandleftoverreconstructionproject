@@ -1,4 +1,5 @@
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	XX	X	PropertyGrid Window
 xxxxx 00xxxxxx  00xxxxxx  Section(2)['.data']   XX  X .?AVCreator@?$FactoryProduct@VBumps@RBX@@VJointInstance@2@$1?sBumps@2@3QBDB@RBX@@
 xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AVCreator@?$FactoryProduct@VHopperService@RBX@@VHopper@2@$1?sHopperService@2@3QBDB@RBX@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AVCreator@?$FactoryProduct@VHopperBin@RBX@@VPlayerHopperItem@2@$1?sHopperBin@2@3QBDB@RBX@@
 MTBA

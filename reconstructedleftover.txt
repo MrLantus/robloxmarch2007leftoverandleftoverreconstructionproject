@@ -9,4 +9,8 @@ xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$Described@VHopperService@
 xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$FactoryProduct@VHopperBin@RBX@@VPlayerHopperItem@2@$1?sHopperBin@2@3QBDB@RBX@@
 xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$Described@VHopperService@RBX@@$1?sHopperService@2@3QBDBV?$FactoryProduct@VHopperService@RBX@@VHopper@2@$1?sHopperService@2@3QBDB@2@@Reflection@RBX@@
 xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$DescribedCreatable@VHopperService@RBX@@VHopper@2@$1?sHopperService@2@3QBDB@RBX@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$DescribedCreatable@VHopperBin@RBX@@VPlayerHopperItem@2@$1?sHopperBin@2@3QBDB@RBX@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$FactoryProduct@VPlayerHopper@RBX@@VHopper@2@$1?sPlayerHopper@2@3QBDB@RBX@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$Described@VPlayerHopper@RBX@@$1?sPlayerHopper@2@3QBDBV?$FactoryProduct@VPlayerHopper@RBX@@VHopper@2@$1?sPlayerHopper@2@3QBDB@2@@Reflection@RBX@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$DescribedCreatable@VPlayerHopper@RBX@@VHopper@2@$1?sPlayerHopper@2@3QBDB@RBX@@
 MTBA

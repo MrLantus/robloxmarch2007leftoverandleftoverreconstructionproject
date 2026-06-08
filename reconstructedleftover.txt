@@ -1,3 +1,4 @@
+xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	part.Color = Color3.new(
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	@rebuildPlayerHopper can only be called by the backend server
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	>PlayerHopperItem
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	>PlayerHopper

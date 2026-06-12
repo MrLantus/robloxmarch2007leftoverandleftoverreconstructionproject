@@ -1,3 +1,4 @@
+xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	>Fonts\lighttrek-small.fnt
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	part.Color = Color3.new(
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	Color
 xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$Listener@VFillToolColor@RBX@@VColor@2@@RBX@@

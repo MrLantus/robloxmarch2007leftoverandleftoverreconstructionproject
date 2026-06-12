@@ -7,6 +7,7 @@
 16871	003a5594	007a5594	Section(1)['.rdata']	11	A	PhysicalCharacter
 17037	003a8900	007a8900	Section(1)['.rdata']	10	A	InsertCharacter1 (Additonal note: both this and 17038 may be related to Load Character...)
 17038	003a894c	007a894c	Section(1)['.rdata']	10	A	InsertCharacter2 (Additonal note: both 17037 and this may be related to Load Character...)
+17080	003aa1dc	007aa1dc	Section(1)['.rdata']	05	A	timer
 17518	003b2058	007b2058	Section(1)['.rdata']	09	A	HopperBin
 17520	003b2070	007b2070	Section(1)['.rdata']	06	A	Hopper
 17523	003b27c4	007b27c4	Section(1)['.rdata']	05	A	Laser

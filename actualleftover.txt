@@ -107,6 +107,7 @@
 22352	004a40e0	008a40e0	Section(2)['.data']	48	A	.?AV?$FactoryProduct@VBackpack@RBX@@VHopper@2@$1?sBackpack@2@3QBDB@RBX@@
 22353	004a4138	008a4138	Section(2)['.data']	86	A	.?AV?$Described@VBackpack@RBX@@$1?sBackpack@2@3QBDBV?$FactoryProduct@VBackpack@RBX@@VHopper@2@$1?sBackpack@2@3QBDB@2@@Reflection@RBX@@
 22354	004a41c8	008a41c8	Section(2)['.data']	4c	A	.?AV?$DescribedCreatable@VBackpack@RBX@@VHopper@2@$1?sBackpack@2@3QBDB@RBX@@
+22639	004a97a0	008a97a0	Section(2)['.data']	60	A	.?AV?$sp_counted_impl_pd@PAVScoreHud@RBX@@VDeleter@?$Creatable@VInstance@RBX@@@2@@detail@boost@@
 22993	004b059c	008b059c	Section(2)['.data']	1d	A	.?AVCXTPPropertyGridToolBar@@
 22996	004b05f8	008b05f8	Section(2)['.data']	2d	A	.?AV?$CArray@PAVCXTPPropertyGridVerb@@PAV1@@@
 22997	004b0630	008b0630	Section(2)['.data']	1b	A	.?AVCXTPPropertyGridVerbs@@

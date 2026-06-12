@@ -1,9 +1,25 @@
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	part.Color = Color3.new(
+xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	Color
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$Listener@VFillToolColor@RBX@@VColor@2@@RBX@@
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	@rebuildPlayerHopper can only be called by the backend server
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	>PlayerHopperItem
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	>PlayerHopper
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	PlayerHopper
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	PropertyGrid Window
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AVCPropertyGridItemColor@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$XItem@VColor@RBX@@VCPropertyGridItemColor@@V?$TypedPropertyDescriptor@VColor@RBX@@@Reflection@2@@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AVXColorItem@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AVGetSet@?$TypedPropertyDescriptor@VColor@RBX@@@Reflection@RBX@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AVColor@RBX@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$holder@VColor@RBX@@@any@boost@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$GetSetImpl@P8PartInstance@RBX@@BE?AVColor@2@XZP812@AEXV32@@Z@?$PropDescriptor@VPartInstance@RBX@@VColor@2@@Reflection@RBX@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$PropDescriptor@VPartInstance@RBX@@VColor@2@@Reflection@RBX@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$FactoryProduct@V?$Value@VColor@RBX@@$1?sColor3Value@2@3PADA@RBX@@VInstance@2@$1?sColor3Value@2@3PADA@RBX@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$sp_counted_impl_pd@PAV?$Value@VColor@RBX@@$1?sColor3Value@2@3PADA@RBX@@VDeleter@?$Creatable@VInstance@RBX@@@2@@detail@boost@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$function@$$A6AXVColor@RBX@@@ZV?$allocator@X@std@@@boost@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$TSignalDesc@$$A6AXVColor@RBX@@@Z@Reflection@RBX@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$SignalDescImpl@$00$$A6AXVColor@RBX@@@Z@Reflection@RBX@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$holder@V?$function@$$A6AXVColor@RBX@@@ZV?$allocator@X@std@@@boost@@@any@boost@@
 xxxxx 00xxxxxx  00xxxxxx  Section(2)['.data']   xx  X .?AVCreator@?$FactoryProduct@VBumps@RBX@@VJointInstance@2@$1?sBumps@2@3QBDB@RBX@@
 xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AVCreator@?$FactoryProduct@VHopperService@RBX@@VHopper@2@$1?sHopperService@2@3QBDB@RBX@@
 xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AVCreator@?$FactoryProduct@VHopperBin@RBX@@VPlayerHopperItem@2@$1?sHopperBin@2@3QBDB@RBX@@

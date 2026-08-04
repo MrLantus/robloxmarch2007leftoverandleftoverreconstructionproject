@@ -1,15 +1,16 @@
+xxxxx 00xxxxxx  00xxxxxx  Section(1)['.rdata']  xx  X NameShown
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	>Fonts\lighttrek-small.fnt
-18120	003c2277	007c2277	Section(1)['.rdata']	11	A	>Fonts\dominant-small.fnt
-17083	003aa200	007aa200	Section(1)['.rdata']	18	A	Textures\MissingCursor.png
+xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	>Fonts\dominant-small.fnt
+xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	Textures\MissingCursor.png
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	part.Color = Color3.new(
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	Color
-xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$Listener@VFillToolColor@RBX@@VColor@2@@RBX@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	  xx	X	.?AV?$Listener@VFillToolColor@RBX@@VColor@2@@RBX@@
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	@rebuildPlayerHopper can only be called by the backend server
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	>PlayerHopperItem
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	>PlayerHopper
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	PlayerHopper
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	PropertyGrid Window
-xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AVCPropertyGridItemColor@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data'] xx	X	.?AVCPropertyGridItemColor@@
 xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$XItem@VColor@RBX@@VCPropertyGridItemColor@@V?$TypedPropertyDescriptor@VColor@RBX@@@Reflection@2@@@
 xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AVXColorItem@@
 xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AVGetSet@?$TypedPropertyDescriptor@VColor@RBX@@@Reflection@RBX@@

@@ -14,7 +14,7 @@ xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	>PlayerHopperItem
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	>PlayerHopper
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	PlayerHopper
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	PropertyGrid Window
-xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data'] xx	X	.?AVCPropertyGridItemColor@@
+xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AVCPropertyGridItemColor@@
 xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AV?$XItem@VColor@RBX@@VCPropertyGridItemColor@@V?$TypedPropertyDescriptor@VColor@RBX@@@Reflection@2@@@
 xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AVXColorItem@@
 xxxxx	00xxxxxx	00xxxxxx	Section(2)['.data']	xx	X	.?AVGetSet@?$TypedPropertyDescriptor@VColor@RBX@@@Reflection@RBX@@

@@ -1,4 +1,8 @@
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X NameShown
+xxxxx 00xxxxxx  00xxxxxx  Section(1)['.rdata']  xx  X Keywords
+xxxxx 00xxxxxx  00xxxxxx  Section(1)['.rdata']  xx  X Hopper Tools
+xxxxx 00xxxxxx  00xxxxxx  Section(1)['.rdata']  xx  X Add to Hopper
+xxxxx 00xxxxxx  00xxxxxx  Section(1)['.rdata']  xx  X Mesh
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	>Fonts\lighttrek-small.fnt
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	>Fonts\dominant-small.fnt
 xxxxx	00xxxxxx	00xxxxxx	Section(1)['.rdata']	xx	X	Textures\MissingCursor.png
